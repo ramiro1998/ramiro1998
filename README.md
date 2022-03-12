@@ -1,5 +1,5 @@
 ### Hi, i´m Ramiro 
-I am and student of systems engineering 👨‍🎓
+I'm a student of systems engineering 👨‍🎓
 
 Currently working at AGROVANTS like backend developer 💻
 
