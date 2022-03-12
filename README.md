@@ -5,7 +5,7 @@ Currently working at AGROVANTS like backend developer 💻
 
 I live in Mendoza, Argentina
 
-**Languages and tools** :
+***Languages and tools*** :
 
 
 ![technologies](https://user-images.githubusercontent.com/56373340/158003642-25ec3e12-c731-4f28-b93e-152081751ca2.png)
