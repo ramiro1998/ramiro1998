@@ -3,7 +3,7 @@ I'm a student of systems engineering 👨‍🎓
 
 Currently working at AGROVANTS like backend developer 💻
 
-I live in 🇸🇪 Mendoza, Argentina
+I live in Mendoza, Argentina
 
 Languages and tools:
 
