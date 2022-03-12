@@ -1,4 +1,8 @@
 ### Hi there 👋
+| --- | --- |
+| git status | Enumera todos los archivos nuevos o modificados |
+| git diff | Muestra las diferencias de archivo que no han sido preparadas |
+![Login-geobox](https://user-images.githubusercontent.com/56373340/158001102-43e2ea05-5d84-4a3b-a8fa-403d0f28a0f5.png)
 
 <!--
 **ramiro1998/ramiro1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
