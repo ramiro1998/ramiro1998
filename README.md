@@ -3,7 +3,7 @@
 
 | Primer encabezado | Segundo encabezado |
 | ------------- | ------------- |
-| Contenido de la celda  | Contenido de la celda  |
+| ![html](https://user-images.githubusercontent.com/56373340/158001258-825eb052-e260-4c57-9a2f-9066788bea05.png)  | Contenido de la celda  |
 | Contenido de la celda  | Contenido de la celda  |
 
 
