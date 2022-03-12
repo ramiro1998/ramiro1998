@@ -1,6 +1,12 @@
-### Hi there 👋
+### Hi, i´m Ramiro 
+I am and student of systems engineering 👨‍🎓/
+Currently working at AGROVANTS like backend developer 💻
+I live in 🇦🇷 Mendoza, Argentina
+Languages and tools
 ![technologies](https://user-images.githubusercontent.com/56373340/158002518-9e6145e9-0d94-4753-a51d-88670bcbe54f.png)
 
+Connect with me:
+https://www.linkedin.com/in/ramiro-redona/
 
 <!--
 **ramiro1998/ramiro1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
