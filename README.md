@@ -7,7 +7,8 @@ I live in Mendoza, Argentina
 
 Languages and tools:
 
-![technologies](https://user-images.githubusercontent.com/56373340/158002518-9e6145e9-0d94-4753-a51d-88670bcbe54f.png)
+
+![technologies](https://user-images.githubusercontent.com/56373340/158003642-25ec3e12-c731-4f28-b93e-152081751ca2.png)
 
 
 Connect with me:
