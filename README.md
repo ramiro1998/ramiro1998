@@ -1,9 +1,5 @@
 ### Hi there 👋
-| Technologies |
-| ------------- | ------------- |
-| ![html](https://user-images.githubusercontent.com/56373340/158001258-825eb052-e260-4c57-9a2f-9066788bea05.png)  | ![Node js_logo](https://user-images.githubusercontent.com/56373340/158001478-1e878c19-21fb-4a53-bb1f-12b2b0820147.svg) |
-| ![javascript](https://user-images.githubusercontent.com/56373340/158001525-bb020961-82d9-4c05-b6ca-c07895a138af.png)  | ![css](https://user-images.githubusercontent.com/56373340/158001559-9c8accdd-dcb6-47c0-900d-91504a657389.png) |
-| ![css](https://user-images.githubusercontent.com/56373340/158001559-9c8accdd-dcb6-47c0-900d-91504a657389.png) | ![git](https://user-images.githubusercontent.com/56373340/158001639-0e65452b-3a82-41b1-995d-6ec32f071718.png) |
+![technologies](https://user-images.githubusercontent.com/56373340/158002518-9e6145e9-0d94-4753-a51d-88670bcbe54f.png)
 
 
 <!--
