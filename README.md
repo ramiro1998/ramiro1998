@@ -1,6 +1,4 @@
 ### Hi there 👋
-![Login-geobox](https://user-images.githubusercontent.com/56373340/158001102-43e2ea05-5d84-4a3b-a8fa-403d0f28a0f5.png)
-
 | Technologies |
 | ------------- | ------------- |
 | ![html](https://user-images.githubusercontent.com/56373340/158001258-825eb052-e260-4c57-9a2f-9066788bea05.png)  | ![Node js_logo](https://user-images.githubusercontent.com/56373340/158001478-1e878c19-21fb-4a53-bb1f-12b2b0820147.svg) |
