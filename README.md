@@ -1,7 +1,7 @@
 ### Hi, i´m Ramiro 
-I'm a student of systems engineering 👨‍🎓
+I'm systems engineer 👨‍🎓
 
-Currently working at AGROVANTS like backend developer 💻
+Currently working at ACCENTURE like fullstack developer 💻
 
 I live in Mendoza, Argentina
 
